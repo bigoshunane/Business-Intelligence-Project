@@ -44,9 +44,7 @@ Total number of bikes used in New York City based on this data source is 24 982,
 
 The highest number of records (34,628) were recorded by people aged 51, although majority of the users are aged between 30-45 years old. In terms of the distance and duration, most young users rode citi bikes for short distance, while the older people rode for longer distance and duration. It is clear that men ride way more citi bikes than women and unknown gender. Usage of three categories peaked during Summer, and then decreased after September.
 
-![h](https://user-images.githubusercontent.com/84547558/165475505-896c0a1f-926e-41f4-af8a-0c8319627b2e.png)
-
-
+![D](https://user-images.githubusercontent.com/84547558/165623991-4aaae462-6092-4235-9c0d-097cb06baf8b.png)
 
 
 
