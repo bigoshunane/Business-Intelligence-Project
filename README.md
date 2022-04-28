@@ -8,7 +8,7 @@ Monthly CSV files of 2020 were collected from [Citi Bike Data](https://ride.citi
 
 
 # Visualizations
-Few Visualizations with story telling are published on public tableau and found at this [link](https://public.tableau.com/authoring/citibikes_16510377750770/Story1#1). Note, I had to cut some visualiaztions from publishing on public tableau due to the limit of rows set by the software and my data rows exceeded the limit i.e. 15 000 000. As a consequence more visualization dashboards are computed and available at [file](https://github.com/bigoshunane/Tableau-Homework-13/blob/main/bikes.twbx) in repository. Moreover, listed in pictures below are list of visulazations together with analysis I have developed.
+Few Visualizations with story telling are published on public tableau and found at this [link](https://public.tableau.com/app/profile/workineh.shunane1801/viz/bikes_16511366012330/Story1?publish=yes). Note, I had to cut some visualiaztions from publishing on public tableau due to the limit of rows set by the software and my data rows exceeded the limit i.e. 15 000 000. As a consequence more visualization dashboards are computed and available at [file](https://github.com/bigoshunane/Tableau-Homework-13/blob/main/bikes.twbx) in repository. Moreover, listed in pictures below are list of visulazations together with analysis I have developed.
 
 
 
