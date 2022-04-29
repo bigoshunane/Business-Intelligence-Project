@@ -4,7 +4,7 @@ The aim of this project is to aggregate the data found in the Citi Bike Trip His
 design number of visualizations for each discovered phenomena.
 
 # Data source
-Monthly CSV files of 2020 (01/2020 to 12/2020) were collected from [Citi Bike Data](https://ride.citibikenyc.com/system-data) webpage. Since the files size exceeeds github limit I could not be bale to git push in to the repositroy, but the files can be found in repo as bikes.tbwx.
+Monthly CSV files of 2020 (01/2020 to 12/2020) were collected from [Citi Bike Data](https://ride.citibikenyc.com/system-data) webpage. Since the files size exceeeds github limit I could not be bale to git push in to the repositroy, but the files can be found in repo as bikes.twbx.
 
 
 # Visualizations
