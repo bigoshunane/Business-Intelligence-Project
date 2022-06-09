@@ -51,6 +51,4 @@ The highest number of records (34,628) were recorded by people aged 51, although
 
 ![D](https://user-images.githubusercontent.com/84547558/165623991-4aaae462-6092-4235-9c0d-097cb06baf8b.png)
 
-
-
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
